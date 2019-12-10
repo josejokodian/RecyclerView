@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Recyrview</string>
+    <string-array
+        name="myData">
+        <item>
+            one
+        </item>
+        <item>
+            two
+        </item>
+        <item>
+            three
+        </item>
+        <item>
+            four
+        </item>
+        <item>
+            five
+        </item>
+        <item>
+            six
+        </item>
+        <item>
+            seven
+        </item>
+        <item>
+            eight
+        </item>
+        <item>
+            nine
+        </item>
+        <item>
+            ten
+        </item>
+        <item>
+            eleven
+        </item>
+        <item>
+            twelve
+        </item>
+
+    </string-array>
+</resources>
